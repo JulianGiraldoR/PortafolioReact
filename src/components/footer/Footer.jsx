@@ -27,7 +27,7 @@ export const Footer = () => {
 
         <div className="footer__social">
           <a
-            href="https://www.linkedin.com/in/julian-andres-giraldo-riveros-8b9b88163/"
+            href="https://www.linkedin.com/in/julian-andres-giraldo/"
             className="footer__social-link"
             target="_blank"
           >
@@ -35,7 +35,7 @@ export const Footer = () => {
           </a>
 
           <a
-            href="https://github.com/JulianGiraldoR"
+            href="https://github.com/JulianGiraldoR?tab=repositories"
             className="footer__social-link"
             target="_blank"
           >
